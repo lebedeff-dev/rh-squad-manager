@@ -1,4 +1,4 @@
-# 02 - RH Squad Manager
+#  RH Squad Manager
 
 Aplicacao de terminal em Java que gerencia o elenco de um clube de futebol
 (Botafogo como massa de dados) usando estruturas de RH. Filtra atletas por
